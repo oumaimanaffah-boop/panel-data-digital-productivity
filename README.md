@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="panel data.png" alt="Infographie du projet de panel_digital_productivity — Oumaima Naffah" width="100%" />
+  <img src="panel_data.png" alt="Infographie du projet de panel_digital_productivity — Oumaima Naffah" width="100%" />
 
 # 🌐 Internet, haut débit & productivité du travail dans l'Union européenne
 
