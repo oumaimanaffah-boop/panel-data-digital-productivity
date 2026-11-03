@@ -1,4 +1,6 @@
-::: {align="center"}
+<div align="center">
+  <img src="panel data.png" alt="Infographie du projet de panel_digital_productivity — Oumaima Naffah" width="100%" />
+
 # 🌐 Internet, haut débit & productivité du travail dans l'Union européenne
 
 ### Analyse économétrique sur données de panel · 2010--2023
