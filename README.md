@@ -204,8 +204,8 @@ FSJES Meknès --- Université Moulay Ismail
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
+
 **Merci pour votre intérêt !** 💗
 
 *Économie numérique · Économétrie des données de panel · Data Science*
-:::
+
